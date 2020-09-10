@@ -31,3 +31,10 @@ class Stack:
             data = self.storage.pop()
             self.size = len(self.storage)
             return data
+
+
+# class Test():
+#     pass
+
+
+# print(dir(Test))
